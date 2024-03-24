@@ -1,0 +1,82 @@
+[
+  {
+    "email": "jimmiewells@custimy-fake.io",
+    "name": "Jennings"
+  },
+  {
+    "email": "jenningswells@custimy-fake.io",
+    "name": "Tracey"
+  },
+  {
+    "email": "traceywells@custimy-fake.io",
+    "name": "Antonia"
+  },
+  {
+    "email": "antoniawells@custimy-fake.io",
+    "name": "Coleman"
+  },
+  {
+    "email": "colemanwells@custimy-fake.io",
+    "name": "Newman"
+  },
+  {
+    "email": "newmanwells@custimy-fake.io",
+    "name": "Carmella"
+  },
+  {
+    "email": "carmellawells@custimy-fake.io",
+    "name": "Poole"
+  },
+  {
+    "email": "poolewells@custimy-fake.io",
+    "name": "Millicent"
+  },
+  {
+    "email": "millicentwells@custimy-fake.io",
+    "name": "Beard"
+  },
+  {
+    "email": "beardwells@custimy-fake.io",
+    "name": "Roslyn"
+  },
+  {
+    "email": "roslynwells@custimy-fake.io",
+    "name": "Richmond"
+  },
+  {
+    "email": "richmondwells@custimy-fake.io",
+    "name": "Juliette"
+  },
+  {
+    "email": "juliettewells@custimy-fake.io",
+    "name": "Gilbert"
+  },
+  {
+    "email": "gilbertwells@custimy-fake.io",
+    "name": "Matilda"
+  },
+  {
+    "email": "matildawells@custimy-fake.io",
+    "name": "Dean"
+  },
+  {
+    "email": "deanwells@custimy-fake.io",
+    "name": "Mckay"
+  },
+  {
+    "email": "mckaywells@custimy-fake.io",
+    "name": "Antoinette"
+  },
+  {
+    "email": "antoinettewells@custimy-fake.io",
+    "name": "Bean"
+  },
+  {
+    "email": "beanwells@custimy-fake.io",
+    "name": "Carissa"
+  },
+  {
+    "email": "carissawells@custimy-fake.io",
+    "name": "Daisy"
+  }
+]
